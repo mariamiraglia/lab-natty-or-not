@@ -21,7 +21,7 @@ Google docs - Criação do documento
 
 Pesquisei e escrevi em tópicos assuntos que gostaria que fosse abordado no ebook, fiz um prompt pedido ao Gemini para utilizar meus tópicos e escrever um ebook.
 
-## 🚀 Resultados
+
 
 
 ```
